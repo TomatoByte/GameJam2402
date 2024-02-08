@@ -16,7 +16,9 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_player","order":1,"path":"sprites/spr_player/spr_player.yy",},
+    {"name":"obj_bigrock","order":1,"path":"objects/obj_bigrock/obj_bigrock.yy",},
     {"name":"spr_rock_big","order":2,"path":"sprites/spr_rock_big/spr_rock_big.yy",},
     {"name":"spr_rock_small","order":3,"path":"sprites/spr_rock_small/spr_rock_small.yy",},
+    {"name":"obj_smrock","order":2,"path":"objects/obj_smrock/obj_smrock.yy",},
   ],
 }
